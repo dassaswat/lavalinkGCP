@@ -1,0 +1,23 @@
+{
+  "name": "lavalink-gcp",
+  "version": "1.0.0",
+  "description": "A gcp hosting option for the lavalink server.",
+  "main": "Lavalink.jar",
+  "scripts": {
+    "test": "java -jar Lavalink.jar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dassaswat/lavalinkGCP.git"
+  },
+  "keywords": [
+    "Lavalink",
+    "GCP"
+  ],
+  "author": "Saswat Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dassaswat/lavalinkGCP/issues"
+  },
+  "homepage": "https://github.com/dassaswat/lavalinkGCP#readme"
+}
