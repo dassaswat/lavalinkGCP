@@ -58,14 +58,14 @@ npm run build
 
 ## Available pm2 Commands
 
-1)`bash pm2 start Lavalink`
+1. `bash pm2 start Lavalink`
 
-2)`bash pm2 stop Lavalink`
+2. `bash pm2 stop Lavalink`
 
-3)`pm2 delete Lavalink`
+3. `pm2 delete Lavalink`
 
-4)`pm2 log Lavalink`
+4. `pm2 log Lavalink`
 
-5)`pm2 [list|ls|status]`
+5. `pm2 [list|ls|status]`
 
 [Process Manager2 documentation](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/)
