@@ -32,10 +32,20 @@ Fetch the data with this command:
 source ~/.profile
 ```
 
-Now finally install it using:
+Now install it using:
 
 ```bash
 nvm install node
+```
+
+Installing Java Runtime environment & Java Development Kit
+
+```bash
+sudo apt install openjdk-13-jre-headless
+```
+
+```bash
+sudo apt install openjdk-13-jdk-headless
 ```
 
 ```bash
