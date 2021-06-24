@@ -50,6 +50,12 @@ First we need to install pm2
 npm i pm2 --g
 ```
 
+Clone the repository
+
+```bash
+git clone https://github.com/dassaswat/lavalinkGCP.git
+```
+
 Now we have to use the build command and we are done!
 
 ```bash
