@@ -41,3 +41,31 @@ nvm install node
 ```bash
 sudo apt upgrade
 ```
+
+## Installation of Process Manager2(pm2) and setup
+
+First we need to install pm2
+
+```bash
+npm i pm2 --g
+```
+
+Now we have to use the build command and we are done!
+
+```bash
+npm run build
+```
+
+## Available pm2 Commands
+
+1)`bash pm2 start Lavalink`
+
+2)`bash pm2 stop Lavalink`
+
+3)`pm2 delete Lavalink`
+
+4)`pm2 log Lavalink`
+
+5)`pm2 [list|ls|status]`
+
+[Process Manager2 documentation](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/)
