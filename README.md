@@ -13,10 +13,6 @@ sudo apt update
 Then we have to install node and npm and in order to do that we:
 
 ```bash
-sudo apt install nodejs
-```
-
-```bash
 sudo apt install npm
 ```
 
